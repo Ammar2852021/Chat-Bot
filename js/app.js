@@ -74,7 +74,7 @@ data.forEach(answer => {
 
 setTimeout(()=>{ chatArea.innerHTML+=`<div class="chat-msg owner">
 <div class="chat-msg-profile">
- <img class="chat-msg-img" src="https://scontent.fcai21-3.fna.fbcdn.net/v/t39.30808-6/324886959_1301587763907789_5691913983098745557_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=W28DHTiZ7PwAX_w2cko&_nc_ht=scontent.fcai21-3.fna&oh=00_AfBh0hMAIyecyr3_YUpxhhPz_xjd_aXgRDDaiORMjxMJ5w&oe=63EFCEBA" alt="" />
+ <div class="chat-msg-img im"></div>
  <div class="chat-msg-date">Message seen 3.07pm</div>
 </div> 
 <div class="chat-msg-content">
